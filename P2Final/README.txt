@@ -23,5 +23,5 @@ To operate our function, please follow the instructions:
 4. type ./spchk <dictionary> <file1> <file2>, etc. for however many files/directories you wish to spell check. 
 5. Results will print in the terminal in the following format: <filepath> (line, column): incorrect word. 
 
-Thank you for reading and grading our spell check!
+Thank you for using our spell check!
 
